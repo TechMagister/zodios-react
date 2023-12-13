@@ -43,7 +43,7 @@
     "test": "jest --coverage"
   },
   "peerDependencies": {
-    "@tanstack/react-query": "4.x",
+    "@tanstack/react-query": "5.x",
     "@zodios/core": ">=10.2.0 <11.0.0",
     "react": ">=16.8.0"
   },
